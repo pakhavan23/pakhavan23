@@ -24,7 +24,7 @@
   - Always available at: **partoakhavan23@gmail.com**
  
 
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pakhavan23&show_icons=true&theme=gruvbox" height="150px" width="300px" alt="pakhavan23" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pakhavan23&show_icons=true&theme=gruvbox" height="150px" width="300px" alt="pakhavan23" />
 
 <!--
 **pakhavan23/pakhavan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
