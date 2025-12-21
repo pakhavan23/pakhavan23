@@ -1,5 +1,4 @@
-### Hello there! 👋
-### I'm Parto, and I practice making sense of data every day! 📊🔮 
+### Hello there! 👋 ### I'm Parto, and I practice making sense of data every day! 📊🔮 
 
 
 - ❤️‍🔥 I'm passionate about:
