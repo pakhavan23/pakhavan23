@@ -11,11 +11,11 @@
 
 
 - 💬 Ask me about: 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,r,mysql,mongodb,git" />
-  </a>
-</p>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,rust,r,mysql,mongodb,git" />
+    </a>
+  </p>
 
 
 <!--
