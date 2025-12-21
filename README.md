@@ -1,11 +1,11 @@
 ### Hello there! 👋
-### I'm Parto, and I practice data wizardry every day! 📊🔮 
+### I'm Parto, and I practice making sense of data every day! 📊🔮 
 
 
 - 💬 Ask me about: 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,redis,git,js" />
+    <img src="https://skillicons.dev/icons?i=py,rust,r,mysql,mongodb,git" />
   </a>
 </p>
 
