@@ -11,11 +11,17 @@
 
 
 - 💬 Ask me about: 
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,rust,r,mysql,mongodb,git" />
-    </a>
-  </p>
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,rust,r,mysql,mongodb,git" />
+      </a>
+    </p>
+
+- 💼 I’m currently working as a:
+  - 📊 Product Data Analyst @ Rooberah!
+
+- 📫 How to reach me:
+  - Always available at: **partoakhavan23@gmail.com**
 
 
 <!--
