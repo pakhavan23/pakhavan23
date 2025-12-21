@@ -2,6 +2,14 @@
 ### I'm Parto, and I practice making sense of data every day! 📊🔮 
 
 
+- ❤️‍🔥 I'm passionate about:
+  - 🤖 Applied Data Science & Machine Learning  
+  - 🗣️ Natural Language Processing  
+  - 🧠 Human–Computer Interaction  
+  - 📈 Information Visualization & Data Storytelling  
+  - 🔍 Information Retrieval & Search Systems
+
+
 - 💬 Ask me about: 
 <p align="left">
   <a href="https://skillicons.dev">
