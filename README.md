@@ -20,7 +20,7 @@
   - 📊 Product Data Analyst @ Rooberah!
 
 - 📫 How to reach me:
-  - Always available at: **partoakhavan23@gmail.com**
+  -  📧 Always available at: **partoakhavan23@gmail.com**
   <br>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pakhavan23&show_icons=true" height="170px" width="320px" alt="pakhavan23" />
