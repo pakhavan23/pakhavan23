@@ -13,7 +13,7 @@
 - 💬 Ask me about: 
     <p align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,rust,r,mysql,mongodb,git" />
+        <img src="https://skillicons.dev/icons?i=py,rust,r,mysql,mongodb,git&size=30" />
       </a>
     </p>
 
