@@ -1,6 +1,6 @@
 ### Hello there! 👋 
 ### I'm Parto, and I practice making sense of data every day! 📊🔮 
-<br>
+
 - ❤️‍🔥 I'm passionate about:
   - 🤖 Applied Data Science & Machine Learning  
   - 🗣️ Natural Language Processing  
