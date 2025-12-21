@@ -1,6 +1,6 @@
 ### Hello there! 👋 
 ### I'm Parto, and I practice making sense of data every day! 📊🔮 
-
+<br>
 
 - ❤️‍🔥 I'm passionate about:
   - 🤖 Applied Data Science & Machine Learning  
@@ -24,7 +24,7 @@
   - Always available at: **partoakhavan23@gmail.com**
  
 
-
+  <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pakhavan23&show_icons=true&theme=gruvbox" height="150px" width="300px" alt="pakhavan23" />
 
 <!--
