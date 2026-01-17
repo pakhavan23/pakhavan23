@@ -23,7 +23,7 @@
   -  📧 Always available at: **partoakhavan23@gmail.com**
   <br>
   
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=pakhavan23&show_icons=true&cache_seconds=1800" width="320" alt="pakhavan23" />
+ <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=pakhavan23&show_icons=true&cache_seconds=1800" width="320" alt="pakhavan23" />
 
 <br clear="left"/>
 
